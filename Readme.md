@@ -11,3 +11,6 @@ This is a tutorial for learning pytorch.
 + [pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet)
 + [Light](https://github.com/ansleliu/LightNet)
 
+## Others
++ [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
++ [Awesome Semantic Segment](https://github.com/mrgloom/awesome-semantic-segmentation)
