@@ -3,6 +3,7 @@ This is a tutorial for learning pytorch.
 ## Object Detection
 + [Yolo](https://github.com/pjreddie/darknet)
 + [Yolo by pytorch](https://github.com/ayooshkathuria/pytorch-yolo-v3)
++ [Paper List](https://github.com/hoya012/deep_learning_object_detection)
 
 ## Semantic Segment
 + [Semantic Segmentation on MIT ADE20K dataset in PyTorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
